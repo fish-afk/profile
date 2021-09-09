@@ -1,7 +1,6 @@
 - 👋 Hey! I’m shihab.
-- 👀 I’m a computer science student interested in python,javascript, web apps, servers, game dev and bit of cyberscurity with python... 
-- im basically familiar with all high level languages like JS python, c# etc... 
-- 🌱 I’m currently learning python.
+- 👀 I’m a computer science student interested in python,javascript, web apps, servers, game dev and bit of cyberscurity with python. Basically everything, yeah you get the point, but im more interested towards full stack dev//
+- 🌱 I’m currently learning C#.
 - Im also looking forward to collaborate on startups
 - 📫 How to reach me ::
 phone - +260954298577
