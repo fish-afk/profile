@@ -1,5 +1,5 @@
 - 👋 Hey! I’m shihab.
-- i do coding
+- i code
 - Im also looking forward to collaborate on startups
 - 📫 How to reach me ::
 phone - +260954298577
